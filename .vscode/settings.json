@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "tiger",
+            "database": "tiger",
+            "username": "tiger",
+            "password": "tiger@sky",
+            "connectionTimeout": 30
+        }
+    ]
+}
